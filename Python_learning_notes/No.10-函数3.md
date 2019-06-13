@@ -137,7 +137,7 @@ for i in range(1,n+1):
 
 * 汉诺塔问题
 
-![汉诺塔](E:\AI145\笔记\md笔记\picture\汉诺塔.png)
+![汉诺塔](https://github.com/DeerKing007/Python_learning_notes/blob/master/Python_learning_notes/picture/汉诺塔.png)
 
 ~~~python
 def hnt(froms,to,temp,n):# 从froms柱子  到to柱子，中间利用temp柱子 n盘子的个数
