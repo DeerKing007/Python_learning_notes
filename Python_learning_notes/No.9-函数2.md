@@ -32,7 +32,6 @@ return
 		因为return的作用是返回流程，刚好跳过了后面的代码
 ~~~
 
----
 
 * 函数变量的作用域
 
@@ -343,6 +342,4 @@ print(functools.reduce(func,[1,2,3,4,5]))
 print(functools.reduce(lambda a,b:a+b,[1,2,3,4,5],100))
 print(functools.reduce(lambda a,b:a+b,['a','b','c'],'hehe'))
 ~~~
-
----
 
