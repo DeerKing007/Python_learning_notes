@@ -205,7 +205,7 @@ print(l) # [99,2,3]
 让列表中的元素，两个相邻的元素之间比较大小，如果不符合条件则更换两者的位置
 ~~~
 
-![冒泡排序](E:\AI145\笔记\md笔记\picture\冒泡排序.png)
+![冒泡排序](https://github.com/DeerKing007/Python_learning_notes/blob/master/Python_learning_notes/picture/冒泡排序.png)
 
 ~~~python
 # 冒泡
@@ -228,7 +228,7 @@ print(list1)
 每次让同一个下标的元素和其他元素作对比
 ~~~
 
- ![选择排序](picture\选择排序.png)
+ ![选择排序](https://github.com/DeerKing007/Python_learning_notes/blob/master/Python_learning_notes/picture/选择排序.png)
 
 ~~~python
 #选择
