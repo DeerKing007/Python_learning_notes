@@ -134,5 +134,6 @@ Windows：
 				2. 在该文件上右键选择edit with idle 
 				3. 书写代码print('hello world!')
 				4. 点击run---run module 或F5
+				
 ~~~
 
