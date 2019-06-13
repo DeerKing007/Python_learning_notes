@@ -31,6 +31,7 @@ print() 向控制台打印内容
 		
 Python2：print不是一个函数，而是一个语句--- 关键字
 Python3：print是一个函数
+
 ~~~
 
 * 输入函数
