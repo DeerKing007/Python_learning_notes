@@ -5,8 +5,6 @@
 2. 高并发
 ~~~
 
-* 扫盲
-
 ~~~markdown
 任务调度
 1. 大部分操作系统的任务调度是采用时间片轮转的抢占式调用
@@ -75,7 +73,7 @@ GIL导致CPython中的多核模式下的多线程几乎等同于单线程，单�
 只有CPython有GIL
 ~~~
 
-![](E:\AI145\笔记\md笔记\picture\多线程.png)
+![多线程](https://github.com/DeerKing007/Python_learning_notes/blob/master/Python_learning_notes/picture/多线程.png)
 
 一般情况：多个线程争抢进程中的资源
 
