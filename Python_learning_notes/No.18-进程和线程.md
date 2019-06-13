@@ -220,7 +220,7 @@ Python 有5个状态
 
 
 
-![线程状态](E:\AI145\笔记\md笔记\picture\线程状态.png)
+![线程状态](https://github.com/DeerKing007/Python_learning_notes/blob/master/Python_learning_notes/picture/线程状态.png)
 
 ### GIL锁
 
